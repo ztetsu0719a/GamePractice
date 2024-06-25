@@ -39,7 +39,7 @@ li{
     font-size : 20px ;
 }
 .copy-container span{
-    color : #ff4a4a ; 
+    color : blue ; 
 }
 .contents{
     height :500px ; 
@@ -73,9 +73,6 @@ img.example2{
 img.example3{
     width : 200px ;
     height : 200px ;  
-}
-.contents-item span{
-    color : blue ;
 }
 .contact-form{
     padding-top : 100px ;
