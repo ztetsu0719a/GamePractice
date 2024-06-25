@@ -39,12 +39,15 @@ li{
     font-size : 20px ;
 }
 .copy-container span{
-    color : blue ; 
+    color : red ; 
 }
 .contents{
     height :500px ; 
     /*上の余白*/
     margin-top : 100px ;
+}
+p span{
+    color : blue ;
 }
 .section-title{
     /*下線、太さ、種類、色*/
