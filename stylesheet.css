@@ -59,7 +59,7 @@ p span{
 .contents-item {
     float : left; 
     /*間隔*/
-    margin-right : 40px ;
+    margin-right : 4px ;
 }
 .contents-item p{
     font-size : 24px ;
@@ -74,6 +74,10 @@ img.example2{
     height : 200px ;  
 }
 img.example3{
+    width : 200px ;
+    height : 200px ;  
+}
+img.example4{
     width : 200px ;
     height : 200px ;  
 }
