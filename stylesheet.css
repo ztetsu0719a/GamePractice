@@ -62,7 +62,7 @@ p span{
 .contents-item {
     float : left; 
     /*間隔*/
-    margin-right : 4px ;
+    margin-right : 50px ;
 }
 .contents-item p{
     font-size : 24px ;
