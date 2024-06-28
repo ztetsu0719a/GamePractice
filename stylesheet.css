@@ -26,28 +26,31 @@ li{
 
 
 .main{
-    padding : 30px 80px ; 
+    padding : 10px 40px ; 
 }
 .copy-container h1{
-    font-size : 80px ; 
+    font-size : 40px ; 
     color : rgb(47, 255, 109) ;
 }
 .copy-container h2{
-    font-size : 40px ; 
+    font-size : 30px ; 
 }
 .copy-container p{
-    font-size : 20px ;
+    font-size : 25px ;
 }
 .copy-container span{
     color : red ; 
 }
 .contents{
-    height :500px ; 
+    height :1000px ; 
     /*上の余白*/
     margin-top : 100px ;
 }
 p span{
     color : blue ;
+}
+.contents p{
+    font-size : 20px ;
 }
 .section-title{
     /*下線、太さ、種類、色*/
